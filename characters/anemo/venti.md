@@ -6,7 +6,7 @@ description: >-
 
 # Venti
 
-## ![](../../.gitbook/assets/element_anemo.png)Venti
+## ![](../../.gitbook/assets/element_anemo%20%281%29.png)Venti
 
 ![](../../.gitbook/assets/character_venti_wish.webp)
 

@@ -121,7 +121,7 @@
     * [Anemo](evidence/characters/anemo/README.md)
       * [Traveler \(Anemo\)](evidence/characters/anemo/traveler-anemo.md)
       * [Jean](evidence/characters/anemo/jean.md)
-      * [Sucrose](evidence/characters/anemo/sucrose.md)
+      * [Sucrose \( Evidence Vault \)](evidence/characters/anemo/sucrose.md)
       * [Venti](evidence/characters/anemo/venti.md)
       * [Xiao](evidence/characters/anemo/xiao.md)
     * [Cryo](evidence/characters/cryo/README.md)
