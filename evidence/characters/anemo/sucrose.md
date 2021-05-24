@@ -1,4 +1,4 @@
-# Sucrose \( Evidence Vault \)
+# Sucrose
 
 ## **Sucrose's N1 Attack can, in some Situations, Cease to Exist**
 
